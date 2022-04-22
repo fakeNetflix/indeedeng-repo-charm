@@ -24,7 +24,7 @@
     </repositories>
 
     <properties>
-        <struts2.version>2.1.8.1</struts2.version>
+        <struts2.version>2.5.30</struts2.version>
     </properties>
 
     <dependencies>
